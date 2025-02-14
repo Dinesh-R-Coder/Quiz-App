@@ -1,2 +1,2 @@
-# ONLINE_QUIZ
-  https://dinesh-r-coder.github.io/mini-projects.github.io/
+# ONLINE_QUIZ_APPLICATION LINK
+  https://dinesh-r-coder.github.io/Quiz-App/
